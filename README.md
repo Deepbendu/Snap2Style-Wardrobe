@@ -62,7 +62,7 @@ This is a passion project combining interests in **fashion, AI**, and **UX desig
 
 **Deepbendu Debnath**  
 Final-year Computer Science student, VIT Vellore  
-Certified in AWS & OCI | Passionate about AI + product design
+Passionate about AI + product design | Certified in AWS & OCI 
 
 ---
 
