@@ -1,6 +1,6 @@
 # 👗 Snap2Style – Wardrobe
 
-**Snap2Style** is an upcoming AI-powered web app designed to make outfit inspiration instantly actionable. Just upload a photo, and Snap2Style will recommend similar fashion items — helping users discover looks they love, faster and smarter.
+**Snap2Style** is an upcoming AI-powered web app designed to make outfit inspiration instantly actionable. Just upload a photo, and Snap2Style will recommend similar fashion items - helping users discover looks they love, faster and smarter.
 
 Whether it’s from Instagram, Pinterest, or a real-world snap, Snap2Style bridges the gap between inspiration and wardrobe with intelligent, image-based fashion recommendations.
 
